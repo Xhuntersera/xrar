@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+  for (int i=0;i<10;i++)
+    {
+      printf("the good day to dead hard ");
+    }
+  for (int i=10;i>0;i--)
+    {
+      printf("sloat  un gros probleme");
+     }
+   return 0;
+   }
+   
